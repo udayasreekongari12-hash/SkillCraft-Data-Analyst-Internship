@@ -1,5 +1,7 @@
 # Task 03 – Interactive Visualization using Power BI 📈
 
+# HR Attrition Dashboard 📊
+
 ## 🎯 Objective
 To analyze employee attrition patterns and identify
 key factors that cause employees to leave the company
@@ -37,4 +39,8 @@ Source: Kaggle
 - Younger employees (18-25) leave more often
 - Lower income employees tend to leave more
 - 16% overall attrition rate
+
+## 🔗 Links
+- 🎥 YouTube: https://youtu.be/Sk7C9x8JagY?si=qeWZD_AF85VsuduY
+- 📊 Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
