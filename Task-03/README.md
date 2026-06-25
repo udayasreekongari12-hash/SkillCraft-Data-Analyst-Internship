@@ -31,7 +31,7 @@ Interactive Visualization
 - Microsoft Excel
 
 ## 📁 Dataset
-IBM HR Analytics Employee Attrition Dataset
+HR Attrition Dataset
 Source: Kaggle
 
 ## 🔍 Key Insights
@@ -40,7 +40,7 @@ Source: Kaggle
 - Lower income employees tend to leave more
 - 16% overall attrition rate
 
-## 🔗 Links
+## 🔗 Link
 - 🎥 YouTube: https://youtu.be/Sk7C9x8JagY?si=qeWZD_AF85VsuduY
-- 📊 Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 
