@@ -21,20 +21,20 @@
 - Used Pandas to handle missing values and drop duplicates
 - Converted data types (string to date format)
 - Exported cleaned data to a new CSV file
-- 🎥 [Watch Video](https://youtu.be/fTpQ_VYkLho?si=eRTOGRzi1UQPkLpJ)
+- 🎥 [Watch Video](https://youtu.be/HhP4KTBJgpE?si=ei_loyFW7qXl2A02)
 
 ### Task 03 – Interactive Visualization 📈
 - Built an interactive dashboard using Power BI / Tableau
 - Used HR Employee Attrition dataset
 - Dashboard filters by Region, Age Group, and Department
 - Answered: "Why are employees leaving?"
-- 🎥 [Watch Video](https://youtu.be/Fx7YCxyX5Ag?si=go86nbtA6SyIK9Qv)
+- 🎥 [Watch Video](https://youtu.be/Sk7C9x8JagY?si=kDBjXpil9vjOk7Dj)
 
 ### Task 04 – Business Insights Report (EDA) 📝
 - Performed Exploratory Data Analysis on a marketing campaign dataset
 - Cleaned data and visualized the marketing funnel
 - Wrote a 1-page summary recommending budget allocation by ROI
-- 🎥 [Watch Video](https://youtu.be/HhP4KTBJgpE?si=D4iEcrMsLiDVi9ed)
+- 🎥 [Watch Video](https://youtu.be/ddjmLIP0ZMI?si=TyGIp8QJwwWlwzgD) 
 
 ---
 
