@@ -1,17 +1,22 @@
-# Task 04 – Business Insights Report (EDA) 📝
+## Task 04 - Business Insights Report (EDA)
 
-Performed Exploratory Data Analysis on a marketing dataset and wrote a business insights report.
+## Objective
+Perform Exploratory Data Analysis on 
+a marketing campaign dataset and 
+recommend budget allocation based on ROI
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Google Colab
+## Dataset
+Marketing Campaign Dataset from Kaggle
 
-## What I Did
-- Performed EDA on a marketing campaign dataset
-- Cleaned data and visualized the marketing funnel
-- Wrote a 1-page summary recommending budget allocation by ROI
+## Visualizations Created
+- Bar Chart (ROI by Channel)
+- Bar Chart (Clicks by Channel)
+- Pie Chart (Impressions by Campaign Type)
+- Line Chart (Clicks Trend)
+- Funnel Chart (Marketing Funnel)
 
+## Key Finding
+All channels perform equally with 
+18M clicks each
 ## 🎥 Watch Video
-https://youtu.be/HhP4KTBJgpE?si=D4iEcrMsLiDVi9ed
+https://youtu.be/ddjmLIP0ZMI?si=4vsbJWx-UNCL-bqe
